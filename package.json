@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://github.com/isotope3/one",
   "author": "Isotope3",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "0.25.0"
+  }
 }
