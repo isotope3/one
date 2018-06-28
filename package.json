@@ -1,0 +1,9 @@
+{
+  "name": "one",
+  "version": "0.0.1",
+  "description": "Start with one!",
+  "main": "index.js",
+  "repository": "https://github.com/isotope3/one",
+  "author": "Isotope3",
+  "license": "MIT"
+}
